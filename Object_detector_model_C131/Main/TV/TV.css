@@ -1,0 +1,36 @@
+body{
+    background-size:cover;   
+}
+#Status{
+    font-size:xx-large;
+}
+
+.Home{
+    border-radius:75%; 
+    font-size: x-large;
+    border-width: 10px;
+    border-color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.Info_div{
+    background-color:skyblue;
+    border-radius: 15px;
+    width: fit-content;
+    position: absolute;
+    color: white;
+    margin-left: 5px;
+}
+
+canvas{
+    position: relative;
+    margin-top: 150px;
+    
+}
+
+h1{
+    position: relative;
+    margin-top: 0px;
+}
+
